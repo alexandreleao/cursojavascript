@@ -109,4 +109,6 @@ if(idade >= 42 && idade == 42){
 }
 */
 
-document.getElementById('exemplo').innerHTML = "Pedro <button>Botão</button>";
+//document.getElementById('exemplo').innerHTML = "Pedro <button>Botão</button>";
+
+
