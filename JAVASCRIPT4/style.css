@@ -16,4 +16,6 @@
     bottom: 20px;
     z-index: 999;
     cursor: pointer;
+    display: none;
+   
 }
