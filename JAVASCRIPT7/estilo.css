@@ -1,0 +1,23 @@
+body{
+    background-color: #EEEEEE;
+}
+
+
+.azul{
+    background-color: #0000FF;
+    color: #EEEEEE;
+}
+
+.vermelho{
+    background-color: #FF0000;
+    color: #EEEEEE;
+}
+
+.verde{
+    background-color: #00FF00;
+    color: #000000;
+}
+
+#telefone{
+    display: none;
+}
