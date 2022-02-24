@@ -1,6 +1,7 @@
 
  body {
-    background:#EEE;
+    background-color:#000;
+    color: #ccc;
 }
 aside {
     position:fixed;
@@ -19,7 +20,8 @@ aside {
 #menu-area {
     width:200px;
     height:100vh;
-    background:#ccc;
+    background-color:#000;
+    color: #ccc;
     overflow-x:hidden;
     overflow-y:auto;
     transition: all ease .5s;
